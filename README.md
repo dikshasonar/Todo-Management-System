@@ -285,6 +285,9 @@ Email Notification (Optional)
 
 ---
 
+# Contact
+If you have any questions, suggestions, or feedback regarding this project, feel free to get in touch.
 
-
----
+- 📧 Email: dikshasonar1305@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/diksha-sonar-934059327
+- 🐙 GitHub: https://github.com/your-github-username
